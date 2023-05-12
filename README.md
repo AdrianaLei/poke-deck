@@ -1,0 +1,2 @@
+# poke-deck
+Pokémon deck
