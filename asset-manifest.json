@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poke-deck/static/css/main.1ec1e7dd.css",
+    "main.js": "/poke-deck/static/js/main.97fd6443.js",
+    "static/js/787.28cb0dcd.chunk.js": "/poke-deck/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pokemon-logo.png": "/poke-deck/static/media/pokemon-logo.c8e5f5413616d2d8709c.png",
+    "index.html": "/poke-deck/index.html",
+    "main.1ec1e7dd.css.map": "/poke-deck/static/css/main.1ec1e7dd.css.map",
+    "main.97fd6443.js.map": "/poke-deck/static/js/main.97fd6443.js.map",
+    "787.28cb0dcd.chunk.js.map": "/poke-deck/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec1e7dd.css",
+    "static/js/main.97fd6443.js"
+  ]
+}
